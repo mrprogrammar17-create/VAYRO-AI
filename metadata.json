@@ -1,0 +1,6 @@
+{
+  "name": "VAYRO — AI Commercial Production Studio",
+  "description": "Built to Make an Impact. International AI-powered commercial production studio creating cinematic brand campaigns, luxury product advertisements, and realistic brand films.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
