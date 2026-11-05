@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Sparkles, Quote, Award, Target, Flame } from 'lucide-react';
-import founderImg from '../assets/images/vayro_founder_branding_1791750678684.jpg';
+import founderImg from '../assets/images/Bilal Syed CEO Promotional Portrait.png';
 
 export const FounderSection: React.FC = () => {
   const [imgSrc, setImgSrc] = useState<string>(founderImg);
